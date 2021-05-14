@@ -206,7 +206,7 @@ margin-right: 50px;
 .hero-background{
     background-color: var(--secondary-bg-color);
     padding-top: 200px;
-    padding-bottom: 280px;
+    padding-bottom: 200px;
 }
 .visually-hiden:not(:focus):not(:active){
     width: 1px;
